@@ -19,10 +19,10 @@ public class arrayListExample {
         // instead of using .length() which you would use in a 'linkedList'
         // we use the .size() function
 
-        //appleProducts.set(1, "Apple Home"); // set method is used to replace index value [1] with new value ' Apple Home'
-        //appleProducts.set(4, "Apple iPad"); // set method is used to replace index value [4] with new value ' Apple iPad'
+        appleProducts.set(1, "Apple Home"); // set method is used to replace index value [1] with new value ' Apple Home'
+        appleProducts.set(4, "Apple iPad"); // set method is used to replace index value [4] with new value ' Apple iPad'
 
-        //appleProducts.remove(0); // removes index [0] from ArrayList
+        appleProducts.remove(0); // removes index [0] from ArrayList
     for(int i = 0; i < appleProducts.size(); i++){
         System.out.println(appleProducts.get(i)); // print to console
     }

@@ -30,9 +30,35 @@ static ArrayList<String> appleProducts = new ArrayList<String>();
 }
 ```
 ## Console Output : Array of Products
-# -----------------------------------
 `Apple iPhone [0]
 Apple MacBook [1]
 Apple iMac [2]
 Apple Watch [3]
 Apple airPods [4]`
+
+# Set new Array of Products
+``
+appleProducts.set(1, "Apple Home"); // set method is used to replace index value [1] with new value ' Apple Home'
+appleProducts.set(4, "Apple iPad"); // set method is used to replace index value [4] with new value ' Apple iPad'
+``
+## Console Output: 
+`
+Apple iPhone [0]
+Apple Home
+Apple iMac [2]
+Apple Watch [3]
+Apple iPad
+`
+# Remove index from ArrayList
+```
+appleProducts.remove(0); // removes index [0] from ArrayList
+```
+## Console Output: 
+```
+Apple Home
+Apple iMac [2]
+Apple Watch [3]
+Apple iPad
+
+```
+
