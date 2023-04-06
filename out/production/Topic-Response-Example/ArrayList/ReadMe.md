@@ -54,5 +54,11 @@ Apple iPad
 appleProducts.remove(0); // removes index [0] from ArrayList
 ```
 ## Console Output: 
+```
+Apple Home
+Apple iMac [2]
+Apple Watch [3]
+Apple iPad
 
+```
 
