@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db9abd20-02c4-4ca9-a245-c4529899f69b" name="Changes" comment="Topic Responses Example">
-      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedListExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/LinkedListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedList/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedList/ReadMe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680320637234</updated>
       <workItem from="1680320640258" duration="2576000" />
-      <workItem from="1680756871930" duration="3049000" />
+      <workItem from="1680756871930" duration="3884000" />
     </task>
     <task id="LOCAL-00001" summary="Topic Responses Example">
       <created>1680758141405</created>
@@ -136,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680759094036</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Topic Responses Example">
+      <created>1680762252934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680762252934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
