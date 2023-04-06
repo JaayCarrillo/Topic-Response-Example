@@ -1,5 +1,6 @@
 # ArrayList Example
-` package ArrayList;
+ ```
+ package ArrayList;
 
 import java.util.ArrayList;
 
@@ -7,6 +8,7 @@ public class arrayListExample {
 // ArrayList - passing a ' String ' as a reference type //
 // reference type named ' appleProducts '
 static ArrayList<String> appleProducts = new ArrayList<String>();
+ ```
 
     public static void main(String[] args) {
         // array of [4] apple products //
@@ -19,12 +21,14 @@ static ArrayList<String> appleProducts = new ArrayList<String>();
         // .size()// is used && returns the number of elements in the array.
         // instead of using .length() which you would use in a 'linkedList'
         // we use the .size() function
-for(int i = 0; i < appleProducts.size(); i++){
-System.out.println(appleProducts.get(i)); // print to console
-}
-}
+```
+ for(int i = 0; i < appleProducts.size(); i++){
+        System.out.println(appleProducts.get(i)); // print to console
+    }
+    }
 
-}`
+}
+```
 ## Console Output : Array of Products
 # -----------------------------------
 `Apple iPhone [0]
